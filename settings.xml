@@ -12,4 +12,5 @@
   </NoIPUsername>
   <NoIPPassword>
   </NoIPPassword>
+  <SaveFormat>APP - URL - USER:PASS</SaveFormat>
 </settings>
